@@ -7,7 +7,7 @@ using System.Collections.Generic;
 namespace Bonobo.Git.Server.Test
 {
     /// <summary>
-    /// This is a regression test for msysgit clients. It can be run against installed version of Bonobo Git Server.
+    /// This is a regression tests for msysgit clients. It can be run against installed version of Bonobo Git Server.
     /// It requires empty Integration repository created on the server before first run. It backups and restores the data when the test is finished. Therefore can be run multiple times.
     /// </summary>
     [TestClass]
